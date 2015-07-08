@@ -27,7 +27,7 @@ so I will definitely be looking to the web to get started.
 - The UI will be text based, driven from the console.
 
 
-#The Design
+#misc design ideas
 
 ##world map 
 I think the world map design will be very interesting especially as the world size grows large. 
