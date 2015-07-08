@@ -5,13 +5,19 @@ coding efforts.
 
 Simple Console RPG is my initial effort at a RPG style game. 
 
-Time: see what I come up in a couple codng sessions
+Time: a couple codng sessions
 
 In this first project I will be developing a simple single player turned based RPG game. 
 The main objective of this exercise is to get my feet wet with tile based games, 
 explore various useful data structures and discover appropriate design patterns 
 for turned based RPG style games. There are lots of articles on game development out there
 so I will definitely be looking to the web to get started.
+
+
+## build/run
+$ mvn clean install
+$ java -jar target/simplerpg.jar
+
 
 ##Requirements
 - single player RPG style game
