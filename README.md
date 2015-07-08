@@ -1,4 +1,4 @@
-#Overview
+#Simple Console RPG
 After years of enterprise app development I have decided to cultivate an interest in game development. 
 My approach for the initial ramp up is to explore different aspects of game development via time boxed 
 coding efforts.
@@ -13,7 +13,7 @@ explore various useful data structures and discover appropriate design patterns
 for turned based RPG style games. There are lots of articles on game development out there
 so I will definitely be looking to the web to get started.
 
-Requirements:
+##Requirements
 - single player RPG style game
 - 10 x 10 grid world
 - fog of war
