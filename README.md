@@ -15,8 +15,8 @@ so I will definitely be looking to the web to get started.
 
 
 ## build/run
->$ mvn clean install
->$ java -jar target/simplerpg.jar
+- $ mvn clean install
+- $ java -jar target/simplerpg.jar
 
 
 ##Requirements
