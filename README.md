@@ -5,7 +5,9 @@ coding efforts.
 
 Simple Console RPG is my initial effort at a RPG style game. 
 
-Time: a couple codng sessions
+Time: a couple codng sessions 
+status: complete
+
 
 In this first project I will be developing a simple single player turned based RPG game. 
 The main objective of this exercise is to get my feet wet with tile based games, 
